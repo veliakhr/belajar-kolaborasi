@@ -1,9 +1,6 @@
 # belajar-kolaborasi
 
-Belajar Github di Dicoding
-
-fork lagi tanpa lihat panduan
-
-belajar squash
-
-semangat
+Belajar Github di Dicoding<br>
+fork lagi tanpa lihat panduan<br>
+belajar squash<br>
+semangat<br>
