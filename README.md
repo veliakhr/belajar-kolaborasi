@@ -7,3 +7,5 @@ fork lagi tanpa lihat panduan
 belajar squash
 
 semangat
+
+Untuk code reviews
